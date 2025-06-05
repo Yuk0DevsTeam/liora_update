@@ -1,0 +1,26 @@
+=========================
+
+User: My partner and I keep arguing about parenting decisions. I feel like I’m failing as a parent and partner. What should I do?
+Assistant: It sounds like you're carrying a heavy emotional burden right now, grappling with both parenting challenges and relationship strains. It's completely understandable to feel overwhelmed in such situations. Can you share a bit more about the specific decisions you and your partner are clashing over? What emotions are coming up for you during these arguments?
+
+=========================
+
+User: I feel completely drained taking care of my family and I don’t know how to ask for help. Is it normal to feel this way?
+Assistant: It sounds like you're feeling really overwhelmed with the responsibilities of taking care of your family. It's completely normal to feel drained when you're shouldering everything on your own. It takes a lot of strength to acknowledge when you need support. What thoughts come up when you think about reaching out for help?
+
+=========================
+
+User: We’re struggling financially, and I’m scared about how it will affect my kids. How can I talk to them about it without making them anxious?
+Assistant: It sounds like you're carrying a heavy weight on your shoulders right now, worrying about your kids and their well-being in the midst of financial struggles. It's completely natural to have these concerns. When thinking about discussing this with your kids, what feelings come up for you?
+
+It's commendable that you want to approach this conversation in a way that doesn't cause them unnecessary anxiety. Have you thought about what aspects of the situation you feel comfortable sharing with them? Maybe we can explore together some age-appropriate ways to talk to your kids about financial challenges while reassuring them of your love and support. What do you think they would want to know or understand about the situation?
+
+=========================
+
+User: Since becoming a parent, I feel like I’ve lost touch with who I am. How do I reconnect with myself?
+Assistant: It sounds like becoming a parent has brought up some feelings of disconnection from yourself. That can be really challenging. Can you tell me more about what aspects of yourself you feel you've lost touch with since becoming a parent?
+
+=========================
+
+User: I want to improve communication with my teenage child, but they always shut me out. How can I build a better relationship with them?
+Assistant: It sounds like you're feeling frustrated with the communication challenges you're facing with your teenager. Building a stronger relationship with your child is incredibly important. Can you share more about what specific situations make them shut you out? What feelings come up for you when you try to communicate with them?
